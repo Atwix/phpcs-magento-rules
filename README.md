@@ -31,7 +31,7 @@ So the PHPCS directory in this case is `/usr/share/php/PHP/CodeSniffer/`, which
 means we need to clone this repository into the `Standards/Made` subdirectory like
 so:
 
-    git clone https://github.com/madedotcom/phpcs-magento-rules /usr/share/php/PHP/CodeSniffer/Standards/Made
+    git clone https://github.com/Atwix/phpcs-magento-rules /usr/share/php/PHP/CodeSniffer/Standards/Atwix_Mage
 
 You can check the standard got installed by running `phpcs -i` which should show
 you something like this:
