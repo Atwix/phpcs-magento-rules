@@ -1,7 +1,7 @@
-# Made.com PHPCS Magento Rules
+# Atwix PHPCS Magento Rules
 
 A set of [PHPCS](http://pear.php.net/package/PHP_CodeSniffer) rules used by
-made.com when hacking Magento.
+atwix.com team when hacking Magento.
 
 ## Pre-Requisites
 
@@ -12,7 +12,7 @@ made.com when hacking Magento.
 ### Short Version
 
 Clone this repository into your PHPCS Standards directory, using the directory
-name of `Made`
+name of `Atwix_Mage`
 
 ### Long Version
 
@@ -36,4 +36,4 @@ so:
 You can check the standard got installed by running `phpcs -i` which should show
 you something like this:
 
-    The installed coding standards are MySource, Squiz, Zend, PHPCS, Made and PEAR
+    The installed coding standards are Atwix_Mage, MySource, Squiz, Zend, PHPCS and PEAR
